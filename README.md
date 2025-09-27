@@ -1,14 +1,9 @@
+# Hi there 👋 I am Luis Peralta
 
-<h1>Hi there 👋 I am Luis Peralta</h1>
+<img align="right" height="128" width="128" alt="Luis Peralta" src="images/avatar.png" />
 
-<img align="right" height="128x" alt="Luis Peralta" width="128" src="./images/avatar.png" 
-style="border-radius:15%"
-border="2px"
-id="avatar" />
-<div style="margin:2px;">
-<b>QA Automation Engineer</b> with proven experience in designing and executing test strategies, automating complex scenarios, and ensuring end-to-end software quality. Skilled in functional and automation testing with WebdriverIO, Puppeteer, Selenium, Rest Assured, Jest, TypeScript, and JMeter. Strong background collaborating in Agile teams and integrating tests into CI/CD pipelines. Passionate about improving software quality, optimizing test processes, and driving faster, more reliable releases.
-<br />
-</div>
+**QA Automation Engineer** with proven experience in designing and executing test strategies, automating complex scenarios, and ensuring end-to-end software quality. Skilled in functional and automation testing with WebdriverIO, Puppeteer, Selenium, Rest Assured, Jest, TypeScript, and JMeter. Strong background collaborating in Agile teams and integrating tests into CI/CD pipelines. Passionate about improving software quality, optimizing test processes, and driving faster, more reliable releases.
+
 
 - 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/luisalejandroperalta/)
 - 📫 How to reach me: **luis_peralta_000@hotmail.com**
