@@ -1,6 +1,6 @@
 
 
-<img align="right" height="128x" alt="Luis Peralta" width="128" src="https://images.icon-icons.com/1808/PNG/512/code_115247.png" />
+<img align="right" height="168x" alt="Luis Peralta" width="160" src="https://i.postimg.cc/CFZvq6qX/Gemini-Generated-Image-jupa6njupa6njupa.png" />
 
 
 ### <h1>Hi there 👋 I am Luis Peralta</h1>
