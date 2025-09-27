@@ -1,16 +1,17 @@
 
 
-<img align="right" height="270px" alt="Luis Peralta" width="350" src="https://avatars.githubusercontent.com/u/69180679?v=4" />
+<img align="right" height="128x" alt="Luis Peralta" width="128" src="https://images.icon-icons.com/1808/PNG/512/code_115247.png" />
+
 
 ### <h1>Hi there 👋 I am Luis Peralta</h1>
 
-> QA Engineer | Test Automation | Web Scraping | Developer
+<b>QA Automation Engineer</b> with proven experience in designing and executing test strategies, automating complex scenarios, and ensuring end-to-end software quality. Skilled in functional and automation testing with WebdriverIO, Puppeteer, Selenium, Rest Assured, Jest, TypeScript, and JMeter. Strong background collaborating in Agile teams and integrating tests into CI/CD pipelines. Passionate about improving software quality, optimizing test processes, and driving faster, more reliable releases.
 <br />
 
-- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/luisalejandroperalta/)
-- 📫 How to reach me: **luisalejandroperalta@gmail.com**
+- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/luisalejandroperalta/)
+- 📫 How to reach me: **luis_peralta_000@hotmail.com**
+- 📃 [My CV](https://www.notion.so/dashboard-example/Luis-Peralta-CV-268a83fbc25a80128afcddc204447b02)
 - 🌎 Based in Argentina
-- � [My CV (Notion)](https://www.notion.so/dashboard-example/Luis-Peralta-CV-268a83fbc25a80128afcddc204447b02)
 - 💬 Ask me about: QA Automation, Web Scraping, JavaScript, TypeScript, Selenium, WebdriverIO, Playwright, and more!
 <br><br>
 
@@ -49,7 +50,7 @@
 <br><br>
 
 
-## � Projects & Activity
+## ⚔ Projects & Activity
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>GitHub Activeness</b></i>
@@ -76,22 +77,4 @@
  </a>
 </p>
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Luis-Peralta/Luis-Peralta/main/resources/img/github-contribution-grid-snake.svg"
-    alt="Luis-Peralta" />
-</p>
-
 <br>
-
-
-## 😎 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/luisalejandroperalta" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
-  <a href="mailto:luisalejandroperalta@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" /></a>
-  <a href="https://github.com/Luis-Peralta" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" /></a>
-</p>
-<br>
-
-<br>
-
-Credit: [Luis-Peralta](https://github.com/Luis-Peralta) Last Edit on 27/09/2025
