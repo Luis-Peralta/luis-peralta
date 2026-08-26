@@ -63,32 +63,3 @@ This combination allows me to understand software from both perspectives: **how 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-
-## 📊 Activity
-
-<p align="center" style="font-size: 20px;">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git"/>&nbsp;<i><b>GitHub Activeness</b></i>
-</p>
-
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luis-Peralta&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Luis-Peralta" />
-</p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Luis-Peralta&show_icons=true&locale=en&theme=chartreuse-dark" alt="Luis-Peralta" width="410"/>
-</p>
-
-<br><br><br><br><br><br><br>
-
-![Luis's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luis-Peralta&custom_title=Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br>
-<p align="center">
- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
-</p>
-
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luis-Peralta&layout=compact&theme=algolia" alt="Luis-Peralta" />
- </a>
-</p>
-
-<br>
