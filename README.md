@@ -7,31 +7,28 @@
   alt="Luis Peralta"
 />
 
-### QA Automation Engineer
+### QA Automation Engineer & Software Developer
 
-I build reliable and maintainable test automation solutions for modern web applications.
+I design reliable test automation solutions and build software applications, internal tools, integrations, and web experiences.
 
-My experience includes designing test strategies, automating complex end-to-end scenarios, integrating quality checks into CI/CD pipelines, and helping teams release software with greater confidence.
+As a QA Automation Engineer, I work with end-to-end, API, integration, and performance testing. I design test strategies, build maintainable automation frameworks, and integrate quality checks into CI/CD pipelines.
 
-I primarily work with **Playwright, TypeScript, WebdriverIO, Selenium, Java, API testing, and performance testing**. I’m also exploring how **AI-assisted testing and developer tools** can improve QA workflows, test coverage, and engineering productivity.
+As a Software Developer, I build frontend applications, automation tools, web scrapers, APIs, bots, and business integrations using JavaScript, TypeScript, Node.js, Python, HTML, and CSS.
 
-- 🔭 Currently working on scalable end-to-end automation and QA strategy
-- 🤖 Exploring AI-assisted testing and intelligent QA workflows
-- 💬 Ask me about Playwright, TypeScript, WebdriverIO, Selenium, API testing, or CI/CD
+This combination allows me to understand software from both perspectives: **how it is built and how to ensure it works reliably**.
+
+- 🧪 Building scalable test automation with Playwright and TypeScript
+- 💻 Developing web applications, tools, integrations, and automation solutions
+- 🤖 Exploring AI-assisted development and intelligent QA workflows
+- 💬 Ask me about QA Automation, software development, web scraping, bots, or CI/CD
 - 🌎 Based in Argentina
 - 🌐 Open to remote opportunities and relocation
 
 <br clear="right"/>
 
-## Connect with me
+## Technologies & Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Peralta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisalejandroperalta/)
-[![Email](https://img.shields.io/badge/Email-luis__peralta__000%40hotmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luis_peralta_000@hotmail.com)
-[![CV](https://img.shields.io/badge/CV-View_resume-5E5EFB?style=flat-square&logo=readme&logoColor=white)](REPLACE_WITH_PUBLIC_CV_URL)
-
-## Core Technologies
-
-### Test Automation
+### QA Automation & Testing
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
@@ -40,33 +37,58 @@ I primarily work with **Playwright, TypeScript, WebdriverIO, Selenium, Java, API
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Languages
+### Software Development
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### CI/CD, Infrastructure & Data
+### CI/CD & Infrastructure
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Databases & Tools
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## What I Focus On
 
-- Designing maintainable automation frameworks
-- End-to-end, API, integration, and performance testing
-- Test strategy, coverage analysis, and risk-based testing
-- CI/CD quality gates and reliable release pipelines
-- Exploratory testing and production-risk prevention
-- AI-assisted QA workflows and engineering productivity
+## 📊 Activity
 
-## GitHub Activity
+<p align="center" style="font-size: 20px;">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git"/>&nbsp;<i><b>GitHub Activeness</b></i>
+</p>
 
-[![Luis's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luis-Peralta&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luis-Peralta&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Luis-Peralta" />
+</p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Luis-Peralta&show_icons=true&locale=en&theme=chartreuse-dark" alt="Luis-Peralta" width="410"/>
+</p>
+
+<br><br><br><br><br><br><br>
+
+![Luis's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luis-Peralta&custom_title=Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br>
+<p align="center">
+ <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
+</p>
+
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Luis-Peralta&layout=compact&theme=algolia" alt="Luis-Peralta" />
+ </a>
+</p>
+
+<br>
