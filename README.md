@@ -1,72 +1,72 @@
-# Hi there 👋 I am Luis Peralta
+# Hi, I'm Luis Peralta 👋
 
-<img align="right" height="128" width="128" alt="Luis Peralta" src="images/avatar.png" />
+<img
+  align="right"
+  width="140"
+  src="./images/avatar.png"
+  alt="Luis Peralta"
+/>
 
-**QA Automation Engineer** with proven experience in designing and executing test strategies, automating complex scenarios, and ensuring end-to-end software quality. Skilled in functional and automation testing with WebdriverIO, Puppeteer, Selenium, Rest Assured, Jest, TypeScript, and JMeter. Strong background collaborating in Agile teams and integrating tests into CI/CD pipelines. Passionate about improving software quality, optimizing test processes, and driving faster, more reliable releases.
+### QA Automation Engineer
 
+I build reliable and maintainable test automation solutions for modern web applications.
 
-- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/luisalejandroperalta/)
-- 📫 How to reach me: **luis_peralta_000@hotmail.com**
-- 📃 [My CV](https://www.notion.so/dashboard-example/Luis-Peralta-CV-268a83fbc25a80128afcddc204447b02)
+My experience includes designing test strategies, automating complex end-to-end scenarios, integrating quality checks into CI/CD pipelines, and helping teams release software with greater confidence.
+
+I primarily work with **Playwright, TypeScript, WebdriverIO, Selenium, Java, API testing, and performance testing**. I’m also exploring how **AI-assisted testing and developer tools** can improve QA workflows, test coverage, and engineering productivity.
+
+- 🔭 Currently working on scalable end-to-end automation and QA strategy
+- 🤖 Exploring AI-assisted testing and intelligent QA workflows
+- 💬 Ask me about Playwright, TypeScript, WebdriverIO, Selenium, API testing, or CI/CD
 - 🌎 Based in Argentina
-- 💬 Ask me about: QA Automation, Web Scraping, JavaScript, TypeScript, Selenium, WebdriverIO, Playwright, and more!
-<br><br>
+- 🌐 Open to remote opportunities and relocation
 
+<br clear="right"/>
 
-<h2>💻 Technologies & Skills</h2>
+## Connect with me
 
-<div>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img alt="WebdriverIO" src="https://img.shields.io/badge/webdriverio-%23E10098.svg?style=for-the-badge&logo=webdriverio&logoColor=white"/>
-  <img alt="Playwright" src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-<br><br>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Peralta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisalejandroperalta/)
+[![Email](https://img.shields.io/badge/Email-luis__peralta__000%40hotmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luis_peralta_000@hotmail.com)
+[![CV](https://img.shields.io/badge/CV-View_resume-5E5EFB?style=flat-square&logo=readme&logoColor=white)](REPLACE_WITH_PUBLIC_CV_URL)
 
-<br>
+## Core Technologies
 
-## 📊 Activity
+### Test Automation
 
-<p align="center" style="font-size: 20px;">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git"/>&nbsp;<i><b>GitHub Activeness</b></i>
-</p>
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luis-Peralta&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Luis-Peralta" />
-</p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Luis-Peralta&show_icons=true&locale=en&theme=chartreuse-dark" alt="Luis-Peralta" width="410"/>
-</p>
+### Languages
 
-<br><br><br><br><br><br><br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
-![Luis's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luis-Peralta&custom_title=Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br>
-<p align="center">
- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
-</p>
+### CI/CD, Infrastructure & Data
 
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luis-Peralta&layout=compact&theme=algolia" alt="Luis-Peralta" />
- </a>
-</p>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br>
+## What I Focus On
+
+- Designing maintainable automation frameworks
+- End-to-end, API, integration, and performance testing
+- Test strategy, coverage analysis, and risk-based testing
+- CI/CD quality gates and reliable release pipelines
+- Exploratory testing and production-risk prevention
+- AI-assisted QA workflows and engineering productivity
+
+## GitHub Activity
+
+[![Luis's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luis-Peralta&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
